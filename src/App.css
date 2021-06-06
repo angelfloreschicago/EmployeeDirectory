@@ -1,0 +1,11 @@
+th {
+    cursor: pointer;
+  }
+  
+  .table, .hero-text {
+    text-align: center;
+  }
+  
+  .hero-text  {
+      background-color: grey !important; 
+  }
